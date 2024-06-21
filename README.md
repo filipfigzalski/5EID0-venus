@@ -1,1 +1,1 @@
-![Robot](sources/robot.gif)
+![Robot](resources/robot.gif)
